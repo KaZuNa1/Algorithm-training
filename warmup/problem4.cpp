@@ -20,7 +20,7 @@ int main() {
 
 
 
-/*#include <iostream>
+#include <iostream>
 #include <vector>
 #include <algorithm>
 using namespace std;
@@ -34,4 +34,4 @@ int main() {
     }
     cout<<sum;
     return 0;
-}*/
+}

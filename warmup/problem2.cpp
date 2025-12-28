@@ -10,7 +10,5 @@ int main() {
     for (auto it = original.rbegin(); it != original.rend(); ++it) {
         cout<<*it;        
     }
-
-    
     return 0;
 }
